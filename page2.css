@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-image: url(./assets/image\ travel.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    font-family: "inter", sans-serif;
+}
+
+h1{
+    margin-top: 200px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 86px;
+    font-family: 'Cinzel', serif;
+}
+
+h1 span{
+    color: #db2777;
+}
+
+p{
+    margin-bottom: 72px;
+    color: #2c2e2f;
+    opacity: .9;
+}
+
+a{
+    padding: 16px 32px;
+    height: 56px;
+    color: #151718;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Cinzel', serif;
+}
+
+a:hover,
+.button{
+    background: #db2777;
+    border-radius: 80px;
+    color: white;
+}

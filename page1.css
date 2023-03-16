@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    padding-top: 160px;
+    background-image:url(./assets/image\ endless.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: "Inter", sans-serif;
+}
+
+h1{
+    color: #FFC700;
+    height: 160px;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80px;
+    font-family: 'Emilys Candy', cursive;
+}
+
+h3 span{
+    color: #FFC700;
+}
+
+h3{
+    color: white;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ffffff;
+}
+
+p{
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 72px;
+    color: #ffffff;
+    opacity: .7;
+}
+
+a{
+    padding: 12px 32px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    opacity: .6;
+}
+
+a:hover,
+.btn-primary{
+    background: #FFC700;
+    text-decoration: none;
+    color: black;
+    opacity: 1;
+}

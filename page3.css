@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 50vh;
+    background-image: url(./assets/image\ food.svg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    margin-top: 275px;
+    color: #ebf1fb;
+    font-size: 64px;
+    line-height: 120px;
+    font-family: 'Beth Ellen', cursive;
+    font-weight: 400;
+}
+
+h1 span{
+    color: #5eead4;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+    color: #ebf1fb;
+    margin-bottom: 72px;
+}
+
+a{
+    padding: 16px 32px;
+    color: #ebf1fb;
+    font-family: 'Spectral', serif;
+    font-size: 24px;
+    width: 85px;
+    height: 24px;
+}
+
+
+a:hover,
+.btn-recipes{
+    background-color: #5eead4;
+    border-radius: 8px;
+    font-size: 24px;
+    color: #0b0c0e;
+    text-decoration: none;
+    width: 85px;
+    height: 24px;
+}
