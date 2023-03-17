@@ -44,7 +44,7 @@ a{
 
 
 a:hover,
-.btn-recipes{
+.btn-recipes, .btn-learn{
     background-color: #5eead4;
     border-radius: 8px;
     font-size: 24px;

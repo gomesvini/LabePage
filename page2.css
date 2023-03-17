@@ -42,7 +42,7 @@ a{
 }
 
 a:hover,
-.button{
+.button, .btn-read{
     background: #db2777;
     border-radius: 80px;
     color: white;
